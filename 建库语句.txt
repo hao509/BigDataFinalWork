@@ -1,0 +1,12 @@
+//建库
+create database Yiqing;
+
+use Yiqing；
+
+create EXTERNAL table yq_data(
+area string，//地区
+confirmed int，//累计确诊
+died int，//死亡
+crued int，//治愈
+curConfirm int，//现有确诊
+confirmedRelative int）//累计确诊增量

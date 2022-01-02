@@ -1,0 +1,15 @@
+运行main.py爬取数据并分析
+
+运行exchange 将xls文件转换为csv文件
+
+execution.py是初步分析数据的作用
+
+map_draw.py是转换为echarts图的作用
+
+
+rddfirst.py是rdd编程代码
+
+test.py是dataframe生成代码
+
+echarts图片直接点击map目录下html文件即可在浏览器查看 
+
